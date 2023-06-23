@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BinomialCoefficients", "01.BinomialCoefficients\01.BinomialCoefficients.csproj", "{D505776E-56AE-41FE-A2F0-C79042EDDFE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BinomialCoefficients", "01.BinomialCoefficients\01.BinomialCoefficients.csproj", "{D505776E-56AE-41FE-A2F0-C79042EDDFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DividingPresents", "02.DividingPresents\02.DividingPresents.csproj", "{E8E4A721-3776-463E-A38F-C48C2E9042AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DividingPresents", "02.DividingPresents\02.DividingPresents.csproj", "{E8E4A721-3776-463E-A38F-C48C2E9042AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumWithLimitedCoins", "04.SumWithLimitedCoins\04.SumWithLimitedCoins.csproj", "{5DB84EBE-0D17-464E-B67A-6FA341F75271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SumWithLimitedCoins", "04.SumWithLimitedCoins\04.SumWithLimitedCoins.csproj", "{5DB84EBE-0D17-464E-B67A-6FA341F75271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SumWithUnlimitedCoins", "03.SumWithUnlimitedCoins\03.SumWithUnlimitedCoins.csproj", "{A1BA5F68-0269-4103-92CE-C0C22D63C3DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SumWithUnlimitedCoins", "03.SumWithUnlimitedCoins\03.SumWithUnlimitedCoins.csproj", "{A1BA5F68-0269-4103-92CE-C0C22D63C3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.WordDifferences", "05.WordDifferences\05.WordDifferences.csproj", "{17F6F74C-DA00-485B-9425-8BBB32D7B72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ConnectingCables", "06.ConnectingCables\06.ConnectingCables.csproj", "{05671DAA-CF39-4EA3-8C13-8282D673422C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{A1BA5F68-0269-4103-92CE-C0C22D63C3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1BA5F68-0269-4103-92CE-C0C22D63C3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1BA5F68-0269-4103-92CE-C0C22D63C3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F6F74C-DA00-485B-9425-8BBB32D7B72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F6F74C-DA00-485B-9425-8BBB32D7B72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F6F74C-DA00-485B-9425-8BBB32D7B72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F6F74C-DA00-485B-9425-8BBB32D7B72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
