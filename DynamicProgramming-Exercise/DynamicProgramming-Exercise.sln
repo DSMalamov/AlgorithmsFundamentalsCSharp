@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SumWithLimitedCoins", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SumWithUnlimitedCoins", "03.SumWithUnlimitedCoins\03.SumWithUnlimitedCoins.csproj", "{A1BA5F68-0269-4103-92CE-C0C22D63C3DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.WordDifferences", "05.WordDifferences\05.WordDifferences.csproj", "{17F6F74C-DA00-485B-9425-8BBB32D7B72D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.WordDifferences", "05.WordDifferences\05.WordDifferences.csproj", "{17F6F74C-DA00-485B-9425-8BBB32D7B72D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ConnectingCables", "06.ConnectingCables\06.ConnectingCables.csproj", "{05671DAA-CF39-4EA3-8C13-8282D673422C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ConnectingCables", "06.ConnectingCables\06.ConnectingCables.csproj", "{05671DAA-CF39-4EA3-8C13-8282D673422C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MinimumEditDistance", "07.MinimumEditDistance\07.MinimumEditDistance.csproj", "{0EDBDB0F-C85E-41F0-9C90-8F1DBA668725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05671DAA-CF39-4EA3-8C13-8282D673422C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDBDB0F-C85E-41F0-9C90-8F1DBA668725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDBDB0F-C85E-41F0-9C90-8F1DBA668725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDBDB0F-C85E-41F0-9C90-8F1DBA668725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDBDB0F-C85E-41F0-9C90-8F1DBA668725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
