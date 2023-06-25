@@ -17,7 +17,7 @@ namespace _03.GeneratingVectors
         {
             if (n >= arr.Length)
             {
-                Console.WriteLine(string.Join(" ", arr));
+                Console.WriteLine(string.Join("", arr));
             }
             else
             {

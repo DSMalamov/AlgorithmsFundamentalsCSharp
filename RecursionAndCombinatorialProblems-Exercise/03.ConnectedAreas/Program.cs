@@ -56,7 +56,7 @@ namespace _03.ConnectedAreas
                 .ThenBy(x => x.Col)
                 .ToList();
 
-            for (int i = 0; i <= sorted.Count; i++)
+            for (int i = 0; i < sorted.Count; i++)
             {
                 Console.WriteLine($"Area #{i + 1} at ({sorted[i].Row}, {sorted[i].Col}), size: {sorted[i].Size}");
             }
