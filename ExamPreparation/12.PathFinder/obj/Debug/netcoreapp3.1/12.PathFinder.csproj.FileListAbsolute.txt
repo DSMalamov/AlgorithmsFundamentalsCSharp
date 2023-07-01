@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\bin\Debug\netcoreapp3.1\12.PathFinder.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\bin\Debug\netcoreapp3.1\12.PathFinder.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\bin\Debug\netcoreapp3.1\12.PathFinder.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\bin\Debug\netcoreapp3.1\12.PathFinder.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\bin\Debug\netcoreapp3.1\12.PathFinder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\bin\Debug\netcoreapp3.1\12.PathFinder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\12.PathFinder\obj\Debug\netcoreapp3.1\12.PathFinder.genruntimeconfig.cache

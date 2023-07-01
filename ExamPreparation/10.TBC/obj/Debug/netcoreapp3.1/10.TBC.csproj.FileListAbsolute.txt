@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\bin\Debug\netcoreapp3.1\10.TBC.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\bin\Debug\netcoreapp3.1\10.TBC.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\bin\Debug\netcoreapp3.1\10.TBC.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\bin\Debug\netcoreapp3.1\10.TBC.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\bin\Debug\netcoreapp3.1\10.TBC.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\bin\Debug\netcoreapp3.1\10.TBC.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\10.TBC\obj\Debug\netcoreapp3.1\10.TBC.genruntimeconfig.cache

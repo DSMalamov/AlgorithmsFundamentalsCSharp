@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\bin\Debug\netcoreapp3.1\14.Paths.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\bin\Debug\netcoreapp3.1\14.Paths.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\bin\Debug\netcoreapp3.1\14.Paths.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\bin\Debug\netcoreapp3.1\14.Paths.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\bin\Debug\netcoreapp3.1\14.Paths.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\bin\Debug\netcoreapp3.1\14.Paths.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\14.Paths\obj\Debug\netcoreapp3.1\14.Paths.genruntimeconfig.cache

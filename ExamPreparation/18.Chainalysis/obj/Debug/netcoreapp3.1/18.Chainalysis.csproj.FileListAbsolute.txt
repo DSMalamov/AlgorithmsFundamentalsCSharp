@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\bin\Debug\netcoreapp3.1\18.Chainalysis.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\bin\Debug\netcoreapp3.1\18.Chainalysis.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\bin\Debug\netcoreapp3.1\18.Chainalysis.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\bin\Debug\netcoreapp3.1\18.Chainalysis.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\bin\Debug\netcoreapp3.1\18.Chainalysis.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\bin\Debug\netcoreapp3.1\18.Chainalysis.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\18.Chainalysis\obj\Debug\netcoreapp3.1\18.Chainalysis.genruntimeconfig.cache

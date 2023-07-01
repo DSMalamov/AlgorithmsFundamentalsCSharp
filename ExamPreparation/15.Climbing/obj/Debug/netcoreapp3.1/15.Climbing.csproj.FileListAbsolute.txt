@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\bin\Debug\netcoreapp3.1\15.Climbing.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\bin\Debug\netcoreapp3.1\15.Climbing.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\bin\Debug\netcoreapp3.1\15.Climbing.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\bin\Debug\netcoreapp3.1\15.Climbing.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\bin\Debug\netcoreapp3.1\15.Climbing.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\bin\Debug\netcoreapp3.1\15.Climbing.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\15.Climbing\obj\Debug\netcoreapp3.1\15.Climbing.genruntimeconfig.cache

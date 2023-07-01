@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\bin\Debug\netcoreapp3.1\11.Socks.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\bin\Debug\netcoreapp3.1\11.Socks.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\bin\Debug\netcoreapp3.1\11.Socks.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\bin\Debug\netcoreapp3.1\11.Socks.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\bin\Debug\netcoreapp3.1\11.Socks.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\bin\Debug\netcoreapp3.1\11.Socks.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\11.Socks\obj\Debug\netcoreapp3.1\11.Socks.genruntimeconfig.cache

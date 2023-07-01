@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\bin\Debug\netcoreapp3.1\19.BitcoinTransactions.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\bin\Debug\netcoreapp3.1\19.BitcoinTransactions.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\bin\Debug\netcoreapp3.1\19.BitcoinTransactions.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\bin\Debug\netcoreapp3.1\19.BitcoinTransactions.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\bin\Debug\netcoreapp3.1\19.BitcoinTransactions.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\bin\Debug\netcoreapp3.1\19.BitcoinTransactions.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\19.BitcoinTransactions\obj\Debug\netcoreapp3.1\19.BitcoinTransactions.genruntimeconfig.cache

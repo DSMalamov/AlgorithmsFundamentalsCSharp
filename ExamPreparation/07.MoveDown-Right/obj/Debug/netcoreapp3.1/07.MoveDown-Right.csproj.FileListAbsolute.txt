@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\bin\Debug\netcoreapp3.1\07.MoveDown-Right.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\bin\Debug\netcoreapp3.1\07.MoveDown-Right.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\bin\Debug\netcoreapp3.1\07.MoveDown-Right.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\bin\Debug\netcoreapp3.1\07.MoveDown-Right.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\bin\Debug\netcoreapp3.1\07.MoveDown-Right.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\bin\Debug\netcoreapp3.1\07.MoveDown-Right.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\07.MoveDown-Right\obj\Debug\netcoreapp3.1\07.MoveDown-Right.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\bin\Debug\netcoreapp3.1\01.BitcoinMiners.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\bin\Debug\netcoreapp3.1\01.BitcoinMiners.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\bin\Debug\netcoreapp3.1\01.BitcoinMiners.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\bin\Debug\netcoreapp3.1\01.BitcoinMiners.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\bin\Debug\netcoreapp3.1\01.BitcoinMiners.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\bin\Debug\netcoreapp3.1\01.BitcoinMiners.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\01.BitcoinMiners\obj\Debug\netcoreapp3.1\01.BitcoinMiners.genruntimeconfig.cache

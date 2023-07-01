@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\bin\Debug\netcoreapp3.1\13.SuperSet.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\bin\Debug\netcoreapp3.1\13.SuperSet.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\bin\Debug\netcoreapp3.1\13.SuperSet.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\bin\Debug\netcoreapp3.1\13.SuperSet.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\bin\Debug\netcoreapp3.1\13.SuperSet.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\bin\Debug\netcoreapp3.1\13.SuperSet.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\13.SuperSet\obj\Debug\netcoreapp3.1\13.SuperSet.genruntimeconfig.cache

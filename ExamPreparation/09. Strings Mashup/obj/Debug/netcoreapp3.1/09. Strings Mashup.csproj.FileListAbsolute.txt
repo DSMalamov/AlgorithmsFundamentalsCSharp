@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\bin\Debug\netcoreapp3.1\09. Strings Mashup.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\bin\Debug\netcoreapp3.1\09. Strings Mashup.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\bin\Debug\netcoreapp3.1\09. Strings Mashup.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\bin\Debug\netcoreapp3.1\09. Strings Mashup.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\bin\Debug\netcoreapp3.1\09. Strings Mashup.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\bin\Debug\netcoreapp3.1\09. Strings Mashup.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\09. Strings Mashup\obj\Debug\netcoreapp3.1\09. Strings Mashup.genruntimeconfig.cache

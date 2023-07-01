@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\bin\Debug\netcoreapp3.1\08.Universes.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\bin\Debug\netcoreapp3.1\08.Universes.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\bin\Debug\netcoreapp3.1\08.Universes.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\bin\Debug\netcoreapp3.1\08.Universes.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\bin\Debug\netcoreapp3.1\08.Universes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\bin\Debug\netcoreapp3.1\08.Universes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\08.Universes\obj\Debug\netcoreapp3.1\08.Universes.genruntimeconfig.cache

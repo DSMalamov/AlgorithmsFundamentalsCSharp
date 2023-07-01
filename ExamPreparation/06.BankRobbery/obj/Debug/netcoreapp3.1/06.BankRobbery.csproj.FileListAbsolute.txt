@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\bin\Debug\netcoreapp3.1\06.BankRobbery.exe
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\bin\Debug\netcoreapp3.1\06.BankRobbery.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\bin\Debug\netcoreapp3.1\06.BankRobbery.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\bin\Debug\netcoreapp3.1\06.BankRobbery.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\bin\Debug\netcoreapp3.1\06.BankRobbery.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\bin\Debug\netcoreapp3.1\06.BankRobbery.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.dll
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\AlgorithmsFundamentalsCSharp\ExamPreparation\06.BankRobbery\obj\Debug\netcoreapp3.1\06.BankRobbery.genruntimeconfig.cache
